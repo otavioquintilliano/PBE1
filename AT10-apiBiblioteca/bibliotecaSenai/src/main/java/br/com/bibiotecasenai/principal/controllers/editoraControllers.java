@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import br.com.bibiotecasenai.principal.entites.Livro;
+import br.com.bibiotecasenai.principal.entites.Editora;
 
 public class editoraControllers {
 

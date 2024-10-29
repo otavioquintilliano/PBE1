@@ -4,7 +4,7 @@ import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 
-import br.com.bibiotecasenai.principal.entites.Livro;
+import br.com.bibiotecasenai.principal.entites.Editora;
 
 public class editoraRepositories {
 	@Autowired
@@ -27,4 +27,3 @@ public class editoraRepositories {
 	}
 }
 
-}
